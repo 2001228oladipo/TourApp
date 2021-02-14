@@ -1,2 +1,2 @@
 # TourApp
-A RGU java assignment on Tourism Application
+A RGU java exam on Tourism Application
